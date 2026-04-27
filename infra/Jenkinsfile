@@ -1,0 +1,5 @@
+node("cje_general_v2") {
+    stage('Print') {
+            echo("Hello World")
+     }
+}
